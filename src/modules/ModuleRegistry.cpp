@@ -16,7 +16,7 @@
 #include "hud/breakindicator.hpp"
 #include "hud/playercoords.hpp"
 #include "hud/compass.hpp"
-#include "hug/watpoints.hpp"
+#include "hud/waypoints.hpp"
 #include "hud/armorhud.hpp"
 #include "hud/potionhud.hpp"
 #include "player/timechanger.hpp"
